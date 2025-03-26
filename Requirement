@@ -1,0 +1,16 @@
+
+Ensure you have the following dependencies installed:
+
+Python 3.7+
+
+Jupyter Notebook
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Seaborn
+
+Matplotlib
