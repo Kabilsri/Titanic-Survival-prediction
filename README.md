@@ -1,3 +1,4 @@
+![image](https://famousoceanliners.files.wordpress.com/2015/07/wpid-titanic_sinking_stu_w1.jpg)
 # Titanic Survival Prediction
 
 ## Overview
